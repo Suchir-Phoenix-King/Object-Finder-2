@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.heading {
+    font-size: 30px;
+}
+
+#input {
+    border-radius: 10px;
+    height: 30px;
+    width: 275px;
+}
+
+p {
+    color: #fff;
+}
+
+#canvas {
+    background-color:lightpink;
+    border: 3px solid rgb(209, 110, 127);
+    box-shadow: 5px 5px 5px rgb(161, 65, 81);
+    border-radius: 10px;
+}
